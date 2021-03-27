@@ -6,9 +6,7 @@
 - 🌱 I believe human beings are capable of governing themselves within their own communities. Direct democracy. All power to the people!
 - ☮️ I believe in peace.
 
-***
 # [AntiNazi.org](https://antinazi.org/)
-***
 
 <!---
 Voltairine-de-Cleyre/Voltairine-de-Cleyre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
